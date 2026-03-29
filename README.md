@@ -60,8 +60,9 @@ The app visualizes tilt, rotation, and compass direction in an intuitive and int
 
 ## 📸 Screenshots
 
-> Add your screenshots here
-> (Level UI, Compass, Debug Panel)
+<img width="414" height="896" alt="Screenshot 2026-03-29 at 4 11 36 PM" src="https://github.com/user-attachments/assets/2f229264-72a0-498f-a566-632ac1dd7b5a" />
+
+<img width="414" height="896" alt="Screenshot 2026-03-29 at 4 11 38 PM-1" src="https://github.com/user-attachments/assets/8dd34bb3-7090-4a58-90c4-e8eef2e4c5eb" />
 
 ---
 
